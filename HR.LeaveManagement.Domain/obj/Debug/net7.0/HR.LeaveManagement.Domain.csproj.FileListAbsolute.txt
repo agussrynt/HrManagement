@@ -1,0 +1,23 @@
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\bin\Debug\net7.0\HR.LeaveManagement.Domain.deps.json
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\refint\HR.LeaveManagement.Domain.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\bin\Debug\net7.0\HR.LeaveManagement.Domain.deps.json
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\refint\HR.LeaveManagement.Domain.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\ref\HR.LeaveManagement.Domain.dll

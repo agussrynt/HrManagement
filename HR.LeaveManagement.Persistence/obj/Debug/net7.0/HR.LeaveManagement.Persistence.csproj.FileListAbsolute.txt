@@ -1,0 +1,38 @@
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.deps.json
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.runtimeconfig.json
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.AssemblyInfo.cs
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.CopyComplete
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\refint\HR.LeaveManagement.Persistence.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.genruntimeconfig.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\ref\HR.LeaveManagement.Persistence.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.deps.json
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.runtimeconfig.json
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.pdb
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.AssemblyInfo.cs
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.CopyComplete
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\refint\HR.LeaveManagement.Persistence.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.pdb
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.genruntimeconfig.cache
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\ref\HR.LeaveManagement.Persistence.dll

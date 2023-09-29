@@ -1,0 +1,30 @@
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.deps.json
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.CopyComplete
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\refint\HR.LeaveManagement.Application.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\ref\HR.LeaveManagement.Application.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.deps.json
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\refint\HR.LeaveManagement.Application.dll
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.pdb
+C:\Users\Agus\Documents\Kantor\training\new1\Hr.Leave.Management.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\ref\HR.LeaveManagement.Application.dll
